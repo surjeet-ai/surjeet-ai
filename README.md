@@ -57,18 +57,6 @@ Windows desktop app that automates student admit-card generation using AI-powere
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=surjeet-ai&show_icons=true&theme=radical&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=surjeet-ai&layout=compact&theme=radical&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=surjeet-ai&theme=radical&hide_border=true" />
-</p>
-
----
 
 ### 🐍 Contribution Snake
 
